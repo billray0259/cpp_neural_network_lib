@@ -1,5 +1,6 @@
 # A Neural Network Libraray Implemented in C++
 
+<!--
 ## tensor.h
 | Method                | Forward Pass | Backward Pass | Tested |
 |-----------------------|--------------|---------------|--------|
@@ -21,3 +22,4 @@
 | Reshape               |      ✅      |       🔜      |   🔜   |
 | Get                   |      ✅      |       🔜      |   ✅   |
 | Set                   |      ✅      |       🔜      |   ✅   |
+-->
